@@ -104,5 +104,5 @@ int main(){
         cout<<"You haven't provided an armstrong nummber";
     }
     return 0;
- Satement
+    
 }
